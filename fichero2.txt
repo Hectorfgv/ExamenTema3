@@ -1,0 +1,7 @@
+casa
+arbol
+bici
+casa
+moto
+casa
+arbol

@@ -1,0 +1,11 @@
+casa
+arbol
+bici
+casa
+moto
+casa
+arbol
+pasa
+masa
+bolea
+arboleda
